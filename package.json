@@ -14,10 +14,10 @@
     },
     "license": "MIT",
     "devDependencies": {
-        "@nuxtjs/sanity": "1.7.3",
-        "@nuxtjs/tailwindcss": "6.8.0",
+        "@nuxtjs/sanity": "1.12.2",
+        "@nuxtjs/tailwindcss": "6.12.2",
         "@types/node": "20",
         "nuxt": "3.6.1",
-        "nuxt-icon": "0.4.1"
+        "nuxt-icon": "0.6.10"
     }
 }
